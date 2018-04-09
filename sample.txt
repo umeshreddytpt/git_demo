@@ -4,3 +4,4 @@ this is to test sample
 7th line added
 test branch added a line
 added a line in remote repository
+added a line to check push without prompting password
